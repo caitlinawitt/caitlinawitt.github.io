@@ -7,11 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Caitlin Witt 2021. Sidebar image by ESO/G. Beccari</copyright>
-    <lastBuildDate>Tue, 19 Oct 2021 19:49:05 +0200</lastBuildDate><atom:link href="https://caitlinawitt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 19:49:05 +0200</lastBuildDate><atom:link href="https://caitlinawitt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NANOGrav Continuous Wave Search</title>
+      <link>https://caitlinawitt.github.io/post/cw12/</link>
+      <pubDate>Fri, 05 May 2023 19:49:05 +0200</pubDate>
+      
+      <guid>https://caitlinawitt.github.io/post/cw12/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://caitlinawitt.github.io/post/images/skymap_lumdist_12p5.png&#34;
+         alt=&#34;NANOGrav limits on the luminosity distance to a 109 solar mass binary. Figure Credits: Caitlin Witt for the NANOGrav collaboration.&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;NANOGrav limits on the luminosity distance to a 10&lt;sup&gt;9&lt;/sup&gt;
+ solar mass binary. Figure Credits: Caitlin Witt for the NANOGrav collaboration.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>Quasars with Periodic Variability</title>
       <link>https://caitlinawitt.github.io/post/agn/</link>
-      <pubDate>Tue, 19 Oct 2021 19:49:05 +0200</pubDate>
+      <pubDate>Thu, 14 Oct 2021 19:49:05 +0200</pubDate>
       
       <guid>https://caitlinawitt.github.io/post/agn/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;https://caitlinawitt.github.io/post/images/animation_curve.gif&#34;
